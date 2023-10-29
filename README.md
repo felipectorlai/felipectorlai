@@ -2,7 +2,7 @@
 ### Oii eu sou o Felipe aproveite e fique à vontade!
 
 <div>
-    <img align="right" width="48%" alt="Octocat" src="https://github.com/mulliru/mulliru/blob/main/mulliru-octo.png" />
+    <img align="right" width="48%" alt="Octocat" src="(https://github.com/felipectorlai/Felipe-Torlai/blob/main/Octocat-FT.png)" />
     <blockquote>
     Eu sou o Felipe Torlai, e aqui está um pouco do que ja desenvolvi, fique a vontade para dar uma olhada
     </blockquote>
