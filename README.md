@@ -16,28 +16,27 @@
 # Skills
 
 ### Programming language
-
 <div style="display: inline_block;">
     <img align="center" alt="HTML" title="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" title="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JSON" title="Json" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/json.svg">
     <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div><br>
 
 ### Frameworks
 <div style="display: inline_block;">
     <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+    <br>
     <img align="center" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" alt="Next" title="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
     <img align="center" alt="Tailwindcss" title="Tailwind CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
     <img align="center" alt="NPM" title="Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
-    <div><br>
+<div><br>
 
 ### Relational Database
 <div style="display: inline-block;">
     <img align="center" alt="SQL" title="SQL" height="30" width="40" src="icons/SQL.svg">
 </div><br>
-
+    
 ### IA/ChatBot
 <div style="display: inline-block;">
     <img align="center" alt="IBM Watson Assistant" title="Watson Assistant" height="30" width="40" src="icons/IbmWatson.svg">
@@ -59,9 +58,10 @@
 <div style="display: inline_block;">
     <img align="center" alt="Visual Studio" title="Visual Studio" height="30" width="40" src="icons/VS.svg">
     <img align="center" alt="Visual Studio Code" title="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-     <img align="center" alt="Oracle SQL Developer" title="SQL Developer" height="30" width="25" src="icons/sql-dev.svg">
-     <img align="center" alt="PyCharm" title="PyCharm" height="30" width="30" src="icons/PyCharm.svg">
-     <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Oracle SQL Developer" title="SQL Developer" height="30" width="25" src="icons/sql-dev.svg">
+    <img align="center" alt="PyCharm" title="PyCharm" height="30" width="30" src="icons/PyCharm.svg">
+    <img align="center" alt="Sublime Text" title="Sublime" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
+    <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div><br>
 
 ### Services
@@ -84,7 +84,8 @@
 ### Office
 <div style="display: inline_block;">
     <img align="center" alt="Microsoft Office" title="Microsoft Office" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/Microsoft-365.svg">
-</div>
+    <img align="center" alt="Google Workspace" title="Google Workspace" height="30" width="90" src="icons/Workspace.svg">
+</div><br>
 
 - 🎓 Cursando Análise e desenvolvimento de sistemas - FIAP
 - 💻 Estudando Gestão de TI e FrontEnd 
