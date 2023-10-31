@@ -33,7 +33,7 @@
     <img align="center" alt="NPM" title="Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
     <div><br>
 
-    ### Relational Database
+### Relational Database
 <div style="display: inline-block;">
     <img align="center" alt="SQL" title="SQL" height="30" width="40" src="icons/SQL.svg">
 </div><br>
