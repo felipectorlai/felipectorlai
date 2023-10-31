@@ -34,7 +34,7 @@
 
 ### Relational Database
 <div style="display: inline-block;">
-    <img align="center" alt="SQL" title="SQL" height="30" width="40" src="[icons/SQL.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tshirtgeek.com.br%2Floja%2Fcomputacao%2Fsql-logo%2F&psig=AOvVaw0NL5B7xxaz03v58ZqRx9zn&ust=1698883021908000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDugMq-oYIDFQAAAAAdAAAAABAE)">
+    <img align="center" alt="SQL" title="SQL" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tshirtgeek.com.br%2Floja%2Fcomputacao%2Fsql-logo%2F&psig=AOvVaw0NL5B7xxaz03v58ZqRx9zn&ust=1698883021908000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDugMq-oYIDFQAAAAAdAAAAABAE">
 </div><br>
     
 ### IA/ChatBot
