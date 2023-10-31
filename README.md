@@ -56,7 +56,6 @@
 
 ### IDEs
 <div style="display: inline_block;">
-    <img align="center" alt="Visual Studio" title="Visual Studio" height="30" width="40" src="icons/VS.svg">
     <img align="center" alt="Visual Studio Code" title="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Oracle SQL Developer" title="SQL Developer" height="30" width="25" src="icons/sql-dev.svg">
     <img align="center" alt="PyCharm" title="PyCharm" height="30" width="30" src="icons/PyCharm.svg">
